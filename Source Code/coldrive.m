@@ -9,7 +9,7 @@ function coldrive(Settings,Controls,Options)
 %   All data is saved by COLDRIVE.
 %
 %   Created by Hayden Tronnolone
-%   Date created: 10/05/2018
+%   Date created: 10/05/2017
 
 % Extract variables
 ComputeImage = Controls.ComputeImage;
